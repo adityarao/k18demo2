@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>true</action>
+        <action_event>click</action_event>
+        <action_target/>
+        <action_target_ref display_value="x_snc_manager_2_ru_manager_2_rules_table">02534023dbf553001d17f4eb0c96193d</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Enter the submit]]></content>
+        <guide display_value="Demo Manager 2">500308efdbb553001d17f4eb0c961982</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 1</name>
+        <options/>
+        <order>1</order>
+        <placement>left</placement>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-06 19:28:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0a538023dbf553001d17f4eb0c96192f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Step 1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Manager 2 rules" source="x_snc_manager_2_ru">ca518c2fdbb553001d17f4eb0c96190e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manager 2 rules">ca518c2fdbb553001d17f4eb0c96190e</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_0a538023dbf553001d17f4eb0c96192f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-06 19:28:14</sys_updated_on>
+        <target/>
+        <target_ref display_value="x_snc_manager_2_ru_manager_2_rules_table">02534023dbf553001d17f4eb0c96193d</target_ref>
+        <title><![CDATA[Step 1]]></title>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>x_snc_manager_2_ru_manager_2_rules_table.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=0a538023dbf553001d17f4eb0c96192f"/>
+</record_update>
